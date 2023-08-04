@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.73
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Native Web Tech", "Native Web Tech.vbproj", "{99BCF9B6-4334-42D0-BF61-65B0786C3517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99BCF9B6-4334-42D0-BF61-65B0786C3517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BCF9B6-4334-42D0-BF61-65B0786C3517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BCF9B6-4334-42D0-BF61-65B0786C3517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BCF9B6-4334-42D0-BF61-65B0786C3517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
